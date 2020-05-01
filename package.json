@@ -1,0 +1,11 @@
+{
+  "name": "bodigitalsales",
+  "version": "1.0.0",
+  "description": "it is a generic BackOffice system to help companies manage sales",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarcísio Corte",
+  "license": "ISC"
+}
